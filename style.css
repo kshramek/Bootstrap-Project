@@ -697,13 +697,7 @@ footer {
         text-align: center;
     }
 
-    .gallery_container .gallery_items {
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .services .service_container,
-    .why_us .why_container {
+    .services .service_container{
         gap: 70px;
     }
 
