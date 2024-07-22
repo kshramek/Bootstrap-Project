@@ -331,12 +331,9 @@ td:hover {
 
 /* Infrared Section */
 
-.infrared {
-background-image: url(Images/infraredrobe.jpg);
-background-repeat: no-repeat;
-background-position: center;
-background-size: contain;
-}
+.infrared_container {
+    background: white;
+    }
 
 .benefits_container {
     align-content: center;
